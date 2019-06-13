@@ -1,0 +1,5 @@
+Credentials cache: API:41EE1743-CB1C-42E9-AB69-DB7A0B2E4DE7
+        Principal: cgardian@42.FR
+
+  Issued                Expires               Principal
+Jul 30 20:16:40 2018  Aug  6 20:16:40 2018  krbtgt/42.FR@42.FR
